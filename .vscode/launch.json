@@ -1,0 +1,84 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch RepeticaFor",
+            "request": "launch",
+            "mainClass": "day0901.RepeticaFor",
+            "projectName": "Semana1_580376f0"
+        },
+        {
+            "type": "java",
+            "name": "Launch RepeticaoSwitch",
+            "request": "launch",
+            "mainClass": "day0901.RepeticaoSwitch",
+            "projectName": "Semana1_580376f0"
+        },
+        {
+            "type": "java",
+            "name": "Launch RepeticaoWhile",
+            "request": "launch",
+            "mainClass": "day0901.RepeticaoWhile",
+            "projectName": "Semana1_580376f0"
+        },
+        {
+            "type": "java",
+            "name": "Launch DiferencaOperadores",
+            "request": "launch",
+            "mainClass": "day0901.DiferencaOperadores",
+            "projectName": "Semana1_580376f0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Semana1_580376f0"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalculoCircuferencia",
+            "request": "launch",
+            "mainClass": "day0831.CalculoCircuferencia",
+            "projectName": "Semana1_580376f0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Comparacao",
+            "request": "launch",
+            "mainClass": "day0831.Comparacao",
+            "projectName": "Semana1_580376f0"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperadoresLogicos",
+            "request": "launch",
+            "mainClass": "day0831.OperadoresLogicos",
+            "projectName": "Semana1_580376f0"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestScanner",
+            "request": "launch",
+            "mainClass": "day0831.TestScanner",
+            "projectName": "Semana1_580376f0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Incrementadore",
+            "request": "launch",
+            "mainClass": "day0901.Incrementadore",
+            "projectName": "Semana1_580376f0"
+        }
+    ]
+}
